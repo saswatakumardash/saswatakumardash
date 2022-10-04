@@ -16,9 +16,10 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SKD01HASH?tab=repositories](https://github.com/SKD01HASH?tab=repositories)
 
-- 💬 Ask me about **DSA, C,C++, Python, Swift, Java,<Html>**
+- 💬 Ask me about **DSA, C,C++, Python, Swift, Java,<Html>,CSS,SwiftUI,Machine Learning..**
 
-- 📫 How to reach me **saswatdash577@gmail.com**
+- 📫 How to reach me **saswatdash577@gmail.com or
+8056198316**
 
 - ⚡ Fun fact **APP DEV IS THE NEXT FUTURE..**
 
