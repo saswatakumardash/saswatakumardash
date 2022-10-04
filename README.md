@@ -48,6 +48,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=skd01hash&show_icons=true&locale=en&layout=compact" alt="skd01hash" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skd01hash&" alt="skd01hash" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skd01hash&show_icons=true&locale=en" alt="skd01hash" /></p>
+
 
 
 
