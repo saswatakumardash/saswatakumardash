@@ -1,8 +1,8 @@
-
+[![MasterHead](https://1az1qeoeudl1yfgis3qekc6g-wpengine.netdna-ssl.com/wp-content/uploads/2019/08/iOS-Developer-1024x526-2.jpg)](https://skd01hash.io)
 
 <h1 align="center">Hi 👋, I'm Saswata Kumar Dash</h1>
 <h3 align="center">A passionate App(Ios) Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skd01hash&label=Profile%20views&color=0e75b6&style=flat" alt="skd01hash" /> </p>
 
@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/dashsaswata" target="blank"><img src="https://img.shields.io/twitter/follow/dashsaswata?logo=twitter&style=for-the-badge" alt="dashsaswata" /></a> </p>
 
-- 🔭 I’m currently working on **APP DEV**
+- 🔭 I’m currently working on **Flappy Bird**
 
 - 🌱 I’m currently learning **Ios Dev with Swift Ui,Flutter**
 
@@ -50,3 +50,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skd01hash&show_icons=true&locale=en" alt="skd01hash" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skd01hash&" alt="skd01hash" /></p>
+
+
+
+
