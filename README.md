@@ -1,4 +1,5 @@
-[![MasterHead](https://developer.apple.com/news/images/og/apple-developer-og-twitter.png)](https://skd01hash.io)
+![background](https://github.com/SKD01HASH/SKD01HASH/assets/94286342/c6cbc78e-3c89-4848-b5c2-ebba1649e27f)
+
 
 <h1 align="center">Hi 👋, I'm Saswata Kumar Dash</h1>
 <h3 align="center">A passionate App(Ios) Developer from India</h3>
