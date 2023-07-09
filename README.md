@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skd01hash&label=Profile%20views&color=0e75b6&style=flat" alt="skd01hash" /> </p>
 
-<p align="left"> <a href="https://twitter.com/dashsaswata" target="blank"><img src="https://twitter.com/dash_skd"
+
                                                               logo=twitter&style=for-the-badge" alt="dashsaswata" /></a> </p>
 
 - 🔭 I’m currently working on **APP DEV**
@@ -29,7 +29,7 @@
 <p align="left">
 <a href="https://codepen.io/@skd01hash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@skd01hash" height="30" width="40" /></a>
 <a href="https://dev.to/saswatakumar_dash_5cf516" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="saswatakumar_dash_5cf516" height="30" width="40" /></a>
-<a href="https://twitter.com/dashsaswata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dashsaswata" height="30" width="40" /></a>
+<a href="https://twitter.com/dash_skd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dashsaswata" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/saswata-kumar-dash-755471220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saswata-kumar-dash-skd-755471220/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19700588/saswata-kumar-dash-skd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19700588/saswata-kumar-dash-skd" height="30" width="40" /></a>
 <a href="https://kaggle.com/saswatakumardashskd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saswatakumardashskd" height="30" width="40" /></a>
