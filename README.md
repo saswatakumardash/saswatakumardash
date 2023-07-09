@@ -9,7 +9,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skd01hash&label=Profile%20views&color=0e75b6&style=flat" alt="skd01hash" /> </p>
 
-<p align="left"> <a href="https://twitter.com/dashsaswata" target="blank"><img src="https://img.shields.io/twitter/follow/dashsaswata?logo=twitter&style=for-the-badge" alt="dashsaswata" /></a> </p>
+<p align="left"> <a href="https://twitter.com/dashsaswata" target="blank"><img src="https://twitter.com/dash_skd"
+                                                              logo=twitter&style=for-the-badge" alt="dashsaswata" /></a> </p>
 
 - 🔭 I’m currently working on **APP DEV**
 
