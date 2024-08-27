@@ -10,8 +10,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saswatakumardash&label=Profile%20views&color=0e75b6&style=flat" alt="saswatakumardash" /> </p>
 
 
-                                                              logo=twitter&style=for-the-badge" alt="dashsaswata" /></a> </p>
-
 - 🔭 I’m currently working on **ARTIFICIAL INTELLIGENCE**
 
 - 🌱 I’m currently learning **Generative Ai, Ai, NLP, CNN**
