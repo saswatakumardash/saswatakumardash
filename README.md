@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Saswata Kumar Dash</h1>
-<h3 align="center">A passionate App(Ios) Developer from India</h3>
+<h3 align="center">A passionate Artificial Intelligence Engineering from India</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
@@ -12,10 +12,10 @@
 
                                                               logo=twitter&style=for-the-badge" alt="dashsaswata" /></a> </p>
 
-- 🔭 I’m currently working on **APP DEV**
+- 🔭 I’m currently working on **ARTIFICIAL INTELLIGENCE**
 
-- 🌱 I’m currently learning **Ios Dev with Swift Ui,Flutter**
-
+- 🌱 I’m currently learning **Generative Ai, Ai, NLP, CNN**
+*
 - 👨‍💻 All of my projects are available at [https://github.com/saswatakumardash?tab=repositories](https://github.com/saswatakumardash?tab=repositories)
 
 - 💬 Ask me about **DSA, C,C++, Python, Swift, Java,<Html>,CSS,SwiftUI,Machine Learning..**
@@ -27,7 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@skd01hash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@skd01hash" height="30" width="40" /></a>
+<a href="https://codepen.io/@saswatakumardash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@skd01hash" height="30" width="40" /></a>
 <a href="https://dev.to/saswatakumar_dash_5cf516" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="saswatakumar_dash_5cf516" height="30" width="40" /></a>
 <a href="https://twitter.com/dash_skd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dashsaswata" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/saswata-kumar-dash-755471220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saswata-kumar-dash-skd-755471220/" height="30" width="40" /></a>
