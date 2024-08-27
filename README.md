@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Saswata Kumar Dash</h1>
-<h3 align="center">A passionate Artificial Intelligence Engineering from India</h3>
+<h3 align="center">A passionate Artificial Intelligence Engineer from India</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
