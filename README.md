@@ -13,9 +13,8 @@
 - 🔭 I’m currently working on **ARTIFICIAL INTELLIGENCE**
 
 - 🌱 I’m currently learning **Generative Ai, Ai, NLP, CNN**
-  
-- [image](https://github.com/user-attachments/assets/2fccfd7f-e66f-483c-9043-366480d6b084)
-Resume Link: [https://drive.google.com/Resume](https://drive.google.com/file/d/1Ekgb7S__NcODYbykOR9pkNAMA_Koh8i6/view?usp=sharing)
+
+ - Resume Link: [https://drive.google.com/Resume](https://drive.google.com/file/d/1Ekgb7S__NcODYbykOR9pkNAMA_Koh8i6/view?usp=sharing)
   
 - 👨‍💻 All of my projects are available at [https://github.com/saswatakumardash?tab=repositories](https://github.com/saswatakumardash?tab=repositories)
   
